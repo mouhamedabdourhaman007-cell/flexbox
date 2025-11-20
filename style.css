@@ -49,3 +49,20 @@
     cursor: pointer;
     margin-top: 20px;
 }
+.features{
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 20px;
+    background-color: #f4f6f8;
+}
+.feature-card{
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    width: 250px;
+    margin: 0 10px;
+}
+.feature-card h2{
+    font-style: bold;
+}
